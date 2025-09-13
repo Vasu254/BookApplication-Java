@@ -1,0 +1,66 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Gradle wrapper jar (keep wrapper scripts checked in)
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven
+target/
+
+# IDEs
+/.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.swp
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+
+# Generated files
+/generated/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Build tool caches
+/gradle/
+
+# Database files
+*.sql
+*.sqlite
+
+# OS files
+Thumbs.db
+
+# Ignore build outputs under build/resources (optional)
+# /build/resources/
+
